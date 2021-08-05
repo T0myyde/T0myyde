@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm T0myy</h1>
-<h3 align="center">i'm a Java Developer</h3>
+<h3 align="center">i'm a Java/LUA Developer</h3>
 
 - 🔭 I’m currently working for **Menia.NET**
 
@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Vue, Vuetify**
 
-- 💬 Ask me about **Java, js and c#**
-
-- 👨‍💻 All of my projects are available at **Menia.net**
+- 💬 Ask me about **Java, js, LUA and c#**
 
 
 <h3 align="left">Languages and Tools:</h3>
