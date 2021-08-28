@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue, Vuetify**
 
-- 💬 Ask me about **Java, js, LUA and c#**
+- 💬 Ask me about **Java, js and c#**
 
 
 <h3 align="left">Languages and Tools:</h3>
