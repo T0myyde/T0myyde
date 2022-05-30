@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm T0myy</h1>
 <h3 align="center">i'm a Java/LUA Developer</h3>
 
 - 🔭 I’m currently working for T-Codes
